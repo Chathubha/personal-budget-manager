@@ -1,0 +1,9 @@
+
+.dashboard-container {
+  width: 500px;
+  margin: 50px auto;
+  background: #fafafa;
+  padding: 25px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
